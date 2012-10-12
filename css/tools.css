@@ -27,3 +27,13 @@
     /*margin: 0 30px 0 0;*/
 }
 
+#me-slide h4,
+#me-slide p.left {
+    text-align: left;
+}
+
+#me-slide p.left {
+    font-size: 30px;
+}
+
+
