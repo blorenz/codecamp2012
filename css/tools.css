@@ -15,9 +15,18 @@
     height: 80px;
     display: block;
     text-align: right;
-    line-height: 80px;
+    line-height:96px;
 }
 
+.reveal table.techs td.image.lh116 {
+    line-height:116px;
+}
+.reveal table.techs td.image.lh96 {
+    line-height:96px;
+}
+.reveal table.techs td.image.lh87 {
+    line-height:87px;
+}
 
 .reveal table.techs td.image img {
     margin: 0;
